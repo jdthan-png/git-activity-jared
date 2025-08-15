@@ -1,0 +1,1 @@
+Hi, Im Jared Muli. Im learning Git and GitHub and practicing branching, merging, and conflict resolution. Excited to collaborate and write clear commits.
